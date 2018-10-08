@@ -184,7 +184,6 @@ function selectNumById(shopId,operCz) {
                 return ;
             }
         }
-
     })
 }
 
