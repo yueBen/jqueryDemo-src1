@@ -1,0 +1,45 @@
+{
+  "total":"6",
+  "rows":[
+    {
+      "id":"1",
+      "equipName":"保险杠",
+      "equipNum":"00001"
+    },
+    {
+      "id":"2",
+      "equipName":"刹车片",
+      "equipNum":"00002"
+    },{
+      "id":"3",
+      "equipName":"前车灯",
+      "equipNum":"00003"
+    },
+    {
+      "id":"4",
+      "equipName":"后视镜",
+      "equipNum":"00004"
+    },
+    {
+      "id":"5",
+      "equipName":"倒车雷达",
+      "equipNum":"00005"
+    },
+    {
+      "id":"6",
+      "equipName":"挡风玻璃",
+      "equipNum":"00006"
+    },
+    {
+      "id":"7",
+      "equipName":"雨刷器",
+      "equipNum":"00007"
+    },
+    {
+      "id":"8",
+      "equipName":"排气管",
+      "equipNum":"00008"
+    }
+
+  ]
+}
